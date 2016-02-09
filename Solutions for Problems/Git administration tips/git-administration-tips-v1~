@@ -1,0 +1,18 @@
+Start with git
+
+…or create a new repository on the command line
+
+
+echo "# Ultimate-Ubuntu-Mate-15.10" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git push -u origin master
+
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/erikdubois/Ultimate-Ubuntu-Mate-15.10.git
+git push -u origin master
+
+
